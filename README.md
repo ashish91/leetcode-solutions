@@ -1,5 +1,6 @@
 LeetCode
 ========
+Solutions to leetcode.com.
 
 [Array](https://leetcode.com/tag/array/)
 --------
