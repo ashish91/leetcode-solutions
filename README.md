@@ -7,4 +7,4 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
+| Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/arrays/3sum.py) |
