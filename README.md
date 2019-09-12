@@ -14,4 +14,4 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [3Sum](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
+| Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
