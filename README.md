@@ -23,3 +23,4 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Py3](./algorithms/backtracking/letterCombinationsOfAPhoneNumber.py) |
+| Medium | [Generate Parentheses](https://leetcode.com/problems/generate-parenthesis/) | [Py3](./algorithms/backtracking/generateParenthesis.py) |
