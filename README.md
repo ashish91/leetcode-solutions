@@ -26,3 +26,4 @@ Solutions to leetcode.com.
 | Medium | [Generate Parentheses](https://leetcode.com/problems/generate-parenthesis/) | [Py3](./algorithms/backtracking/generateParenthesis.py) |
 | Medium | [Permutations](https://leetcode.com/problems/permutations/) | [Py3](./algorithms/backtracking/permutations.py) |
 | Medium | [Subsets](https://leetcode.com/problems/subsets/) | [Py3](./algorithms/backtracking/subsets.py) |
+| Medium | [Word Search](https://leetcode.com/problems/word-search/) | [Py3](./algorithms/backtracking/wordSearch.py) |
