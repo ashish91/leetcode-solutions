@@ -1,3 +1,4 @@
+# Without heap
 class Solution:
   def topKFrequent(self, nums: List[int], k: int) -> List[int]:
     freq_hash = {}
@@ -21,5 +22,41 @@ class Solution:
     top_k = [0] * k
     for i in range(k):
       top_k[i] = freq[i][0]
+
+    return top_k
+
+# With heap
+from heapq import *
+
+class Solution:
+  def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    frequencies = {}
+    for num in nums:
+      if num in frequencies:
+        frequencies[num] += 1
+      else:
+        frequencies[num] = 1
+
+    values = {}
+    for val in frequencies.keys():
+      if frequencies[val] in values:
+        values[frequencies[val]].append(val)
+      else:
+        values[frequencies[val]] = [val]
+
+    heap = []
+    for freq in values.keys():
+      heappush(heap, freq * -1)
+      print(heap)
+      print(len(heap))
+
+    top_k = []
+    i = 0
+    while i < k:
+      freq = -1 * heappop(heap)
+      i += len(values[freq])
+
+      for val in values[freq]:
+        top_k.append(val)
 
     return top_k
