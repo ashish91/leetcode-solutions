@@ -33,6 +33,9 @@ Solutions to leetcode.com.
 | Medium | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Py3](./algorithms/heap/topKFrequentElements.py) |
 | Medium | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Py3](./algorithms/heap/kthLargestElementInArray.py) |
 
+[Binary Search](https://leetcode.com/tag/binary-search/)
+| Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Py3](./algorithms/binary-search/findPeakElement.py) |
+
 [Math](https://leetcode.com/tag/math/)
 --------
 
