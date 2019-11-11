@@ -8,6 +8,7 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
+| Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/) | [Py3](./algorithms/array/containerWithMostWater.py) |
 
 [Tree](https://leetcode.com/tag/tree/)
 --------
