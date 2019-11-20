@@ -29,6 +29,13 @@ Solutions to leetcode.com.
 | Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Py3](./algorithms/binary-search/findPeakElement.py) |
 | Medium | [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Py3](./algorithms/binary-search/searchForARange.py) |
 
+[Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
+--------
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Py3](./algorithms/dynamic-programming/maximum-subarray.py) |
+
 [Heap](https://leetcode.com/tag/heap/)
 --------
 
