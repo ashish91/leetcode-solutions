@@ -28,6 +28,7 @@ Solutions to leetcode.com.
 | ---------- | ----- | -------- |
 | Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Py3](./algorithms/binary-search/findPeakElement.py) |
 | Medium | [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Py3](./algorithms/binary-search/searchForARange.py) |
+| Medium | [Search In Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Py3](./algorithms/binary-search/search-in-rotated-sorted-array.py) |
 
 [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 --------
