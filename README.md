@@ -8,7 +8,8 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
-| Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/) | [Py3](./algorithms/array/containerWithMostWater.py) |
+| Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Py3](./algorithms/array/containerWithMostWater.py) |
+| Medium | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Py3](./algorithms/array/missing-ranges.py) |
 
 [Backtracking](https://leetcode.com/tag/backtracking/)
 --------
