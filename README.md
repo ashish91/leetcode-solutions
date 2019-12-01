@@ -37,6 +37,8 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Py3](./algorithms/dynamic-programming/maximum-subarray.py) |
+| Medium | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Py3](./algorithms/dynamic-programming/longest-increasing-subsequence.py) |
+| Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [Py3](./algorithms/dynamic-programming/coin-change.py) |
 
 [Greedy](https://leetcode.com/tag/greedy/)
 --------
@@ -58,7 +60,8 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Happy Number](https://leetcode.com/problems/happy-number/) | [Py3](./algorithms/backtracking/happyNumber.py) |
+| Easy | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Py3](./algorithms/math/factorial-trailing-zeroes.py) |
+| Medium | [Happy Number](https://leetcode.com/problems/happy-number/) | [Py3](./algorithms/math/happyNumber.py) |
 
 [Sort](https://leetcode.com/tag/sort/)
 --------
