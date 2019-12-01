@@ -78,3 +78,4 @@ Solutions to leetcode.com.
 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Py3](./algorithms/tree/constructBinaryTreeFromInorderAndPreorder.py) |
 | Medium | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Py3](./algorithms/tree/kthSmallestElementInBst.py) |
+| Medium | [Inorder Successor in a BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Py3](./algorithms/tree/inorder-successor-in-bst.py) |
