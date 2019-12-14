@@ -32,6 +32,15 @@ Solutions to leetcode.com.
 | Medium | [Search In Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Py3](./algorithms/binary-search/search-in-rotated-sorted-array.py) |
 | Medium | [Search In 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Py3](./algorithms/binary-search/search-a-2d-matrix-ii.py) |
 
+[Design](https://leetcode.com/tag/design/)
+--------
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Py3](./algorithms/design/insert-delete-getrandom-o1.py) |
+| Medium | [Serialize Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Py3](./algorithms/design/serialize-and-deserialize-binary-tree.py) |
+
+
 [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 --------
 
