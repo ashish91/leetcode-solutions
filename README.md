@@ -78,7 +78,7 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Py3](./algorithms/sort/mergeIntervals.py) |
+| Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Py3](./algorithms/sort/merge-intervals.py) |
 | Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py3](./algorithms/sort/meeting-rooms-ii.py) |
 
 [Tree](https://leetcode.com/tag/tree/)
