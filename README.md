@@ -71,7 +71,10 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Py3](./algorithms/math/factorial-trailing-zeroes.py) |
+| Easy | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Py3](./algorithms/math/sqrtx.py) |
+| Easy | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Py3](./algorithms/math/excel-sheet-column-number.py) |
 | Medium | [Happy Number](https://leetcode.com/problems/happy-number/) | [Py3](./algorithms/math/happyNumber.py) |
+| Medium | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Py3](./algorithms/math/powx-n.py) |
 
 [Sort](https://leetcode.com/tag/sort/)
 --------
