@@ -47,6 +47,7 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Py3](./algorithms/dynamic-programming/maximum-subarray.py) |
+| Easy | [House Robbery](https://leetcode.com/problems/house-robbery/) | [Py3](./algorithms/dynamic-programming/house-robbery.py) |
 | Medium | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Py3](./algorithms/dynamic-programming/longest-increasing-subsequence.py) |
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [Py3](./algorithms/dynamic-programming/coin-change.py) |
 
