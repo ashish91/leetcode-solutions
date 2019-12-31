@@ -76,6 +76,7 @@ Solutions to leetcode.com.
 | Easy | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Py3](./algorithms/math/excel-sheet-column-number.py) |
 | Medium | [Happy Number](https://leetcode.com/problems/happy-number/) | [Py3](./algorithms/math/happyNumber.py) |
 | Medium | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Py3](./algorithms/math/powx-n.py) |
+| Medium | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Py3](./algorithms/math/divide-two-integers.py) |
 
 [Sort](https://leetcode.com/tag/sort/)
 --------
