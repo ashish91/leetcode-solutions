@@ -40,6 +40,7 @@ Solutions to leetcode.com.
 | Medium | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Py3](./algorithms/design/insert-delete-getrandom-o1.py) |
 | Medium | [Serialize Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Py3](./algorithms/design/serialize-and-deserialize-binary-tree.py) |
 | Medium | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | [Py3](./algorithms/design/flatten-2d-vector.py) |
+| Medium | [Design Tic Tac Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Py3](./algorithms/design/design-tic-tac-toe.py) |
 
 [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 --------
