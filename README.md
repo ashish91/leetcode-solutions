@@ -10,6 +10,7 @@ Solutions to leetcode.com.
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
 | Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Py3](./algorithms/array/containerWithMostWater.py) |
 | Medium | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Py3](./algorithms/array/missing-ranges.py) |
+| Medium | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Py3](./algorithms/array/find-the-celebrity.py) |
 
 [Backtracking](https://leetcode.com/tag/backtracking/)
 --------
@@ -21,6 +22,11 @@ Solutions to leetcode.com.
 | Medium | [Permutations](https://leetcode.com/problems/permutations/) | [Py3](./algorithms/backtracking/permutations.py) |
 | Medium | [Subsets](https://leetcode.com/problems/subsets/) | [Py3](./algorithms/backtracking/subsets.py) |
 | Medium | [Word Search](https://leetcode.com/problems/word-search/) | [Py3](./algorithms/backtracking/wordSearch.py) |
+
+[Backtracking](https://leetcode.com/tag/backtracking/)
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Py3](./algorithms/backtracking/sum-of-two-integers.py) |
 
 [Binary Search](https://leetcode.com/tag/binary-search/)
 --------
