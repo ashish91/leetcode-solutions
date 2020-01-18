@@ -64,6 +64,7 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Jump Game](https://leetcode.com/problems/jump-game/) | [Py3](./algorithms/heap/jump-game.py) |
+| Medium | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Py3](./algorithms/heap/task-scheduler.py) |
 
 [Heap](https://leetcode.com/tag/heap/)
 --------
