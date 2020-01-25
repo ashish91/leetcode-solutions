@@ -24,7 +24,9 @@ Solutions to leetcode.com.
 | Medium | [Subsets](https://leetcode.com/problems/subsets/) | [Py3](./algorithms/backtracking/subsets.py) |
 | Medium | [Word Search](https://leetcode.com/problems/word-search/) | [Py3](./algorithms/backtracking/wordSearch.py) |
 
-[Backtracking](https://leetcode.com/tag/backtracking/)
+[Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
+--------
+
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Py3](./algorithms/backtracking/sum-of-two-integers.py) |
