@@ -96,6 +96,13 @@ Solutions to leetcode.com.
 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Py3](./algorithms/sort/merge-intervals.py) |
 | Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py3](./algorithms/sort/meeting-rooms-ii.py) |
 
+[String](https://leetcode.com/tag/string/)
+--------
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Py3](./algorithms/tree/greatest-common-divisor-of-strings.py) |
+
 [Tree](https://leetcode.com/tag/tree/)
 --------
 
@@ -105,3 +112,4 @@ Solutions to leetcode.com.
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Py3](./algorithms/tree/constructBinaryTreeFromInorderAndPreorder.py) |
 | Medium | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Py3](./algorithms/tree/kthSmallestElementInBst.py) |
 | Medium | [Inorder Successor in a BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Py3](./algorithms/tree/inorder-successor-in-bst.py) |
+| Easy | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Py3](./algorithms/tree/two-sum-iv-input-is-a-bst.py) |
