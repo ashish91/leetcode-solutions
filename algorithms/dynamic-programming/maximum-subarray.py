@@ -1,17 +1,15 @@
 class Solution:
   def maxSubArray(self, nums: List[int]) -> int:
-    size = len(nums)
-    dp = [0] * size
+    length = len(nums)
+    cache = [0] * length
+
+    cache[0] = nums[0]
+    maxValue = nums[0]
     i = 1
-    dp[0] = nums[0]
-    result = nums[0]
+    for i in range(1, length):
+      cache[i] = max(cache[i-1] + nums[i], nums[i])
 
-    while i < size:
-      dp[i] = nums[i]
-      if dp[i - 1] > 0:
-        dp[i] = dp[i] + dp[i-1]
+      if maxValue < cache[i]:
+        maxValue = cache[i]
 
-      result = max(result, dp[i])
-      i += 1
-
-    return result
+    return maxValue

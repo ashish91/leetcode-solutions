@@ -97,6 +97,7 @@ Solutions to leetcode.com.
 | ---------- | ----- | -------- |
 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Py3](./algorithms/sort/merge-intervals.py) |
 | Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py3](./algorithms/sort/meeting-rooms-ii.py) |
+| Easy | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Py3](./algorithms/sort/relative-sort-array.py) |
 
 [String](https://leetcode.com/tag/string/)
 --------
@@ -112,6 +113,10 @@ Solutions to leetcode.com.
 | ---------- | ----- | -------- |
 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Py3](./algorithms/tree/constructBinaryTreeFromInorderAndPreorder.py) |
-| Medium | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Py3](./algorithms/tree/kthSmallestElementInBst.py) |
 | Medium | [Inorder Successor in a BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Py3](./algorithms/tree/inorder-successor-in-bst.py) |
+| Medium | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Py3](./algorithms/tree/kthSmallestElementInBst.py) |
+| Medium | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Py3](./algorithms/tree/lowest-common-ancestor-of-a-binary-tree.py) |
+| Medium | [Path Sum](https://leetcode.com/problems/path-sum/) | [Py3](./algorithms/tree/path-sum.py) |
+| Medium | [Populating Next Right Pointer in each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Py3](./algorithms/tree/populating-next-right-pointers-in-each-node-ii.py) |
+| Medium | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Py3](./algorithms/tree/symmetric-tree.py) |
 | Easy | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Py3](./algorithms/tree/two-sum-iv-input-is-a-bst.py) |
