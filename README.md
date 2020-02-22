@@ -56,6 +56,7 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Easy | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Py3](./algorithms/dynamic-programming/best-time-to-buy-and-sell-stock.py) |
 | Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Py3](./algorithms/dynamic-programming/maximum-subarray.py) |
 | Easy | [House Robbery](https://leetcode.com/problems/house-robbery/) | [Py3](./algorithms/dynamic-programming/house-robbery.py) |
 | Medium | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Py3](./algorithms/dynamic-programming/longest-increasing-subsequence.py) |
@@ -120,3 +121,4 @@ Solutions to leetcode.com.
 | Medium | [Populating Next Right Pointer in each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Py3](./algorithms/tree/populating-next-right-pointers-in-each-node-ii.py) |
 | Medium | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Py3](./algorithms/tree/symmetric-tree.py) |
 | Easy | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Py3](./algorithms/tree/two-sum-iv-input-is-a-bst.py) |
+| Medium | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Js](./algorithms/tree/validate-binary-search-tree.js) |
