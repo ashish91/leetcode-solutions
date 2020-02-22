@@ -8,6 +8,7 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py3](./algorithms/array/two-sum.py) |
+| Medium | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Py3](./algorithms/array/3sum-closest.py) |
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
 | Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Py3](./algorithms/array/containerWithMostWater.py) |
 | Medium | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Py3](./algorithms/array/missing-ranges.py) |
@@ -112,6 +113,7 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Js](./algorithms/tree/binary-tree-maximum-path-sum.js) |
 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Py3](./algorithms/tree/constructBinaryTreeFromInorderAndPreorder.py) |
 | Medium | [Inorder Successor in a BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Py3](./algorithms/tree/inorder-successor-in-bst.py) |
