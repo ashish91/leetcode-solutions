@@ -8,6 +8,12 @@
 | [3Sum](https://leetcode.com/problems/3sum/) | [Py3](./algorithms/array/3sum.py) |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py3](./algorithms/array/two-sum.py) |
 
+## Linked List
+
+| Title | Solution |
+| ---------- | ----- | -------- |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Js](./algorithms/linked-list/reverse-linked-list.js) |
+
 ## Tree
 
 | Title | Solution |

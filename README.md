@@ -79,6 +79,14 @@ Solutions to leetcode.com.
 | Medium | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Py3](./algorithms/heap/topKFrequentElements.py) |
 | Medium | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Py3](./algorithms/heap/kthLargestElementInArray.py) |
 
+[Linked List](https://leetcode.com/tag/linked-list/)
+--------
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Delete node in Linked List](https://leetcode.com/problems/delete-node-in-linked-list/) | [Py3](./algorithms/linked-list/delete-node-in-linked-list.py) |
+| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Js](./algorithms/linked-list/reverse-linked-list.js) |
+
 [Math](https://leetcode.com/tag/math/)
 --------
 
