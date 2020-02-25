@@ -11,7 +11,7 @@
 ## Linked List
 
 | Title | Solution |
-| ---------- | ----- | -------- |
+| ----- | -------- |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Js](./algorithms/linked-list/reverse-linked-list.js) |
 
 ## Tree
