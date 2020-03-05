@@ -109,6 +109,14 @@ Solutions to leetcode.com.
 | Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py3](./algorithms/sort/meeting-rooms-ii.py) |
 | Easy | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Py3](./algorithms/sort/relative-sort-array.py) |
 
+[Stack](https://leetcode.com/tag/stack/)
+--------
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Js](./algorithms/tree/evaluate-reverse-polish-notation.py) |
+| Easy | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Js](./algorithms/tree/remove-all-adjacent-duplicates-in-string.js) |
+
 [String](https://leetcode.com/tag/string/)
 --------
 
