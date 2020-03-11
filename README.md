@@ -62,6 +62,8 @@ Solutions to leetcode.com.
 | Easy | [House Robbery](https://leetcode.com/problems/house-robbery/) | [Py3](./algorithms/dynamic-programming/house-robbery.py) |
 | Medium | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Py3](./algorithms/dynamic-programming/longest-increasing-subsequence.py) |
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [Py3](./algorithms/dynamic-programming/coin-change.py) |
+| Medium | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [JS](./algorithms/dynamic-programming/trapping-rain-water.js) |
+| Medium | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Py3](./algorithms/dynamic-programming/unique-paths.py) |
 
 [Greedy](https://leetcode.com/tag/greedy/)
 --------
@@ -85,7 +87,9 @@ Solutions to leetcode.com.
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Delete node in Linked List](https://leetcode.com/problems/delete-node-in-linked-list/) | [Py3](./algorithms/linked-list/delete-node-in-linked-list.py) |
-| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Js](./algorithms/linked-list/reverse-linked-list.js) |
+| Easy | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Py3](./algorithms/linked-list/merge-two-sorted-lists.py) |
+| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JS](./algorithms/linked-list/reverse-linked-list.js) |
+| Medium | [Rotate List](https://leetcode.com/problems/rotate-list/) | [JS](./algorithms/linked-list/rotate-list.js) |
 
 [Math](https://leetcode.com/tag/math/)
 --------
@@ -114,22 +118,27 @@ Solutions to leetcode.com.
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Js](./algorithms/tree/evaluate-reverse-polish-notation.py) |
-| Easy | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Js](./algorithms/tree/remove-all-adjacent-duplicates-in-string.js) |
+| Medium | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [JS](./algorithms/tree/evaluate-reverse-polish-notation.py) |
+| Medium | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [JS](./algorithms/tree/remove-all-adjacent-duplicates-in-string-ii.js) |
+| Easy | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JS](./algorithms/tree/remove-all-adjacent-duplicates-in-string.js) |
+| Easy | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [JS](./algorithms/tree/valid-parentheses.js) |
 
 [String](https://leetcode.com/tag/string/)
 --------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Py3](./algorithms/tree/greatest-common-divisor-of-strings.py) |
+| Easy | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JS](./algorithms/tree/first-unique-character-in-a-string.js) |
+| Easy | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Py3](./algorithms/tree/greatest-common-divisor-of-strings.py) |
+| Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Py3](./algorithms/tree/most-common-word.py) |
+| Easy | [Reorder data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Py3](./algorithms/tree/reorder-data-in-log-files.py) |
 
 [Tree](https://leetcode.com/tag/tree/)
 --------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Js](./algorithms/tree/binary-tree-maximum-path-sum.js) |
+| Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/tree/binary-tree-maximum-path-sum.js) |
 | Medium | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Py3](./algorithms/tree/binaryTreeZigZagLevelOrderTraversal.py) |
 | Medium | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Py3](./algorithms/tree/constructBinaryTreeFromInorderAndPreorder.py) |
 | Medium | [Inorder Successor in a BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Py3](./algorithms/tree/inorder-successor-in-bst.py) |
@@ -139,4 +148,4 @@ Solutions to leetcode.com.
 | Medium | [Populating Next Right Pointer in each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Py3](./algorithms/tree/populating-next-right-pointers-in-each-node-ii.py) |
 | Medium | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Py3](./algorithms/tree/symmetric-tree.py) |
 | Easy | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Py3](./algorithms/tree/two-sum-iv-input-is-a-bst.py) |
-| Medium | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Js](./algorithms/tree/validate-binary-search-tree.js) |
+| Medium | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [JS](./algorithms/tree/validate-binary-search-tree.js) |
