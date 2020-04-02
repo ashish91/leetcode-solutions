@@ -15,7 +15,7 @@
 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Py3](./algorithms/linked-list/merge-two-sorted-lists.py) |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Js](./algorithms/linked-list/reverse-linked-list.js) |
 
-[String](https://leetcode.com/tag/string/)
+## String
 --------
 
 | Difficulty | Title | Solution |
@@ -23,7 +23,7 @@
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Js](./algorithms/tree/first-unique-character-in-a-string.js) |
 | [Reorder data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Py3](./algorithms/tree/reorder-data-in-log-files.py) |
 
-[Stack](https://leetcode.com/tag/stack/)
+## Stack
 --------
 
 | Difficulty | Title | Solution |
