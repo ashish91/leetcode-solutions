@@ -1,4 +1,4 @@
-# Top Questions for Microsoft.
+# Top Questions for Microsoft
 
 ## Arrays and Strings
 
