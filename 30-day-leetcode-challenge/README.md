@@ -11,4 +11,5 @@ Solutions to 30 Day LeetCode Challenge.
 | 02/04/2020 | [Happy Numbers](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3284/) | [JS](./happy-numbers.js) |
 | 03/04/2020 | [Maximum Subarray](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3285/) | [JS](./maximum-subarray.js) |
 | 04/04/2020 | [Move Zeroes](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3286/) | [JS](./move-zeroes.js) |
-| 05/04/2020 | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3286/) | [JS](./best-time-to-buy-and-sell-stock-ii.js) |
+| 05/04/2020 | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3287/) | [JS](./best-time-to-buy-and-sell-stock-ii.js) |
+| 06/04/2020 | [Group Anagrams](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/) | [JS](./group-anagrams.js) |
