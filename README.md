@@ -2,6 +2,12 @@ LeetCode
 ========
 Solutions to leetcode.com.
 
+Interview Solutions
+========
+
+* [30 Day Leetcode Challenge April 2020](./30-day-leetcode-challenge/README.md)
+* [Microsoft Top Questions](./Microsoft-Top-Questions/README.md)
+
 [Array](https://leetcode.com/tag/array/)
 --------
 
