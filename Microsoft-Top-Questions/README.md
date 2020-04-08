@@ -7,6 +7,7 @@ Topicwise questions asked in Microsoft Interviews by leetcode.
 | ----- | -------- |
 | [2Sum](https://leetcode.com/problems/two-sum/) | [Py3](./arrays-and-strings/2sum.py) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Py3](./arrays-and-strings/group-anagrams.py) |
+| [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-string/) | [JS](./arrays-and-strings/longest-palindromic-string.js) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Py3](./arrays-and-strings/reverse-string.py) |
 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Py3](./arrays-and-strings/rotate-image.py) |
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Py3](./arrays-and-strings/set-matrix-zeroes.py) |
@@ -14,3 +15,10 @@ Topicwise questions asked in Microsoft Interviews by leetcode.
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [JS](./arrays-and-strings/trapping-rain-water.js) |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Py3](./arrays-and-strings/valid-palindrome.py) |
 | [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis/) | [Py3](./arrays-and-strings/valid-parenthesis.py) |
+
+## Linked List
+
+| Title | Solution |
+| ----- | -------- |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Py3](./arrays-and-strings/add-two-numbers.py) |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Py3](./arrays-and-strings/reverse-linked-list.js) |
