@@ -21,4 +21,5 @@ Topicwise questions asked in Microsoft Interviews by leetcode.
 | Title | Solution |
 | ----- | -------- |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Py3](./arrays-and-strings/add-two-numbers.py) |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Py3](./arrays-and-strings/reverse-linked-list.js) |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JS](./arrays-and-strings/linked-list-cycle.js) |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JS](./arrays-and-strings/reverse-linked-list.js) |
