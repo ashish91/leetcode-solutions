@@ -15,3 +15,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 06/04/2020 | [Group Anagrams](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/) | [JS](./group-anagrams.js) |
 | 07/04/2020 | [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/) | [JS](./counting-elements.js) |
 | 08/04/2020 | [Middle of the Linked List](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/) | [JS](./middle-of-the-linked-list.js) |
+| 09/04/2020 | [Backspace String Compare](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/) | [JS](./backspace-string-comapare.js) |
