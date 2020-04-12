@@ -17,3 +17,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 08/04/2020 | [Middle of the Linked List](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/) | [JS](./middle-of-the-linked-list.js) |
 | 09/04/2020 | [Backspace String Compare](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/) | [JS](./backspace-string-compare.js) |
 | 10/04/2020 | [Min Stack](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3292/) | [JS](./min-stack.js) |
+| 11/04/2020 | [Diameter of Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/) | [Py3](./diameter-of-binary-tree.py) |
