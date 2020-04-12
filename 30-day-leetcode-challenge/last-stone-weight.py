@@ -1,6 +1,6 @@
 # Using Sorting
-# Time Complexity O(NlogN)
-# Space Complexity O(1)
+# Time Complexity O(N^2)
+# Space Complexity O(N) for inserting the element each time
 class Solution:
   def lastStoneWeight(self, stones: List[int]) -> int:
     stones.sort(reverse=True)
@@ -22,7 +22,7 @@ class Solution:
 
 # Using Heap
 # Time Complexity O(NlogN)
-# Space Complexity O(NlogN)
+# Space Complexity O(N) for heap
 import heapq as hq
 
 class Solution:
