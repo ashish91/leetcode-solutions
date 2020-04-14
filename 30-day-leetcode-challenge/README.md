@@ -20,3 +20,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 11/04/2020 | [Diameter of Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/) | [Py3](./diameter-of-binary-tree.py) |
 | 12/04/2020 | [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3294/) | [Py3](./last-stone-weight.py) |
 | 13/04/2020 | [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3295/) | [JS](./contiguous-array.js) |
+| 14/04/2020 | [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3296/) | [JS](./perform-string-shifts.js) |
