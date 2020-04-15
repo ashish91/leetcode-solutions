@@ -21,3 +21,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 12/04/2020 | [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3294/) | [Py3](./last-stone-weight.py) |
 | 13/04/2020 | [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3295/) | [JS](./contiguous-array.js) |
 | 14/04/2020 | [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3296/) | [JS](./perform-string-shifts.js) |
+| 15/04/2020 | [Product of Array except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [JS](./product-of-array-except-self.js) |
