@@ -24,4 +24,7 @@ Solutions to 30 Day LeetCode Challenge.
 | 15/04/2020 | [Product of Array except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [JS](./product-of-array-except-self.js) |
 | 16/04/2020 | [Valid Parenthesis String](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/) | [Py3](./valid-parenthesis-string.py) |
 | 17/04/2020 | [Number of Islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/) | [JS](./number-of-islands.js) |
-| 16/04/2020 | [Minimum Path Sum](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/) | [JS](./minimum-path-sum.js) |
+| 18/04/2020 | [Minimum Path Sum](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/) | [JS](./minimum-path-sum.js) |
+| 19/04/2020 | [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/) | [Py3](./search-in-rotated-sorted-array.py) |
+| 20/04/2020 | [Contruct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | [Py3](./construct-binary-search-tree-from-preorder-traversal.py) |
+| 21/04/2020 | [Leftmost Column with at least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | [JS](./leftmost-column-with-at-least-a-one.js) |
