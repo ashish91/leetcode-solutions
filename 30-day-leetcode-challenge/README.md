@@ -29,3 +29,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 20/04/2020 | [Contruct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | [Py3](./construct-binary-search-tree-from-preorder-traversal.py) |
 | 21/04/2020 | [Leftmost Column with at least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | [JS](./leftmost-column-with-at-least-a-one.js) |
 | 22/04/2020 | [Subarray Sum equals K](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/) | [JS](./subarray-sum-equals-k.js) |
+| 23/04/2020 | [Bitwise AND of Numbers Range](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/) | [JS](./bitwise-and-of-numbers-range.js) |
