@@ -6,6 +6,7 @@ Interview Solutions
 ========
 
 * [30 Day Leetcode Challenge April 2020](./30-day-leetcode-challenge/april-2020/README.md)
+* [30 Day Leetcode Challenge May 2020](./30-day-leetcode-challenge/may-2020/README.md)
 * [Microsoft Top Questions](./Microsoft-Top-Questions/README.md)
 
 [Array](https://leetcode.com/tag/array/)
