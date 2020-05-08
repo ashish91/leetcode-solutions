@@ -14,3 +14,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 05/05/2020 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [JS](./first-unique-character-in-a-string.js) |
 | 06/05/2020 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Py](./majority-element.py) |
 | 07/05/2020 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Py](./cousins-in-binary-tree.py) |
+| 08/05/2020 | [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/) | [Py](./check-if-it-is-a-straight-line.js) |
