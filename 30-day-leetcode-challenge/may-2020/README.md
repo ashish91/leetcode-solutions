@@ -16,4 +16,4 @@ Solutions to 30 Day LeetCode Challenge.
 | 07/05/2020 | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Py](./cousins-in-binary-tree.py) |
 | 08/05/2020 | [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [JS](./check-if-it-is-a-straight-line.js) |
 | 09/05/2020 | [Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | [Py](./valid-perfect-square.py) |
-| 08/05/2020 | [Find the Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Py](./find-the-town-judge.py) |
+| 10/05/2020 | [Find the Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Py](./find-the-town-judge.py) |
