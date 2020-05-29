@@ -22,11 +22,12 @@
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JS](./algorithms/dynamic-programming/maximum-subarray.js) |
 
-## Linked List
+## Sliding Window
 --------
 
 | Title | Solution |
 | ----- | -------- |
+| [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Py](./algorithms/sliding-window/fruit-into-baskets.py) |
 
 ## Sorting And Searching
 --------
@@ -35,20 +36,14 @@
 | ---------- | ----- | -------- |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JS](./algorithms/sorting-and-searching/merge-intervals.js) |
 
-## String
+
+## Trees And Graphs
 --------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-
-## Stack
---------
-
-| Difficulty | Title | Solution |
-| ---------- | ----- | -------- |
-
-
-## Tree
-
-| Title | Solution |
-| ----- | -------- |
+| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees-and-graphs/binary-tree-maximum-path-sum.js) |
+| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees-and-graphs/course-schedule-ii.py) |
+| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees-and-graphs/diameter-of-binary-tree.py) |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees-and-graphs/number-of-islands.js) |
+| [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees-and-graphs/word-ladder.js) |
