@@ -19,6 +19,8 @@
 
 | Title | Solution |
 | ----- | -------- |
+| [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./algorithms/dynamic-programming/best-time-to-buy-and-sell-stock.js) |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JS](./algorithms/dynamic-programming/maximum-subarray.js) |
 
