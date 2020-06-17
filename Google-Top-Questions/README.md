@@ -22,6 +22,7 @@
 | [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./algorithms/dynamic-programming/best-time-to-buy-and-sell-stock.js) |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
+| [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JS](./algorithms/dynamic-programming/maximum-subarray.js) |
 
 ## Sliding Window
@@ -39,13 +40,19 @@
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JS](./algorithms/sorting-and-searching/merge-intervals.js) |
 
 
-## Trees And Graphs
+## Trees
 --------
 
-| Difficulty | Title | Solution |
-| ---------- | ----- | -------- |
+| Title | Solution |
+| ----- | -------- |
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees-and-graphs/binary-tree-maximum-path-sum.js) |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees-and-graphs/course-schedule-ii.py) |
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees-and-graphs/diameter-of-binary-tree.py) |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees-and-graphs/number-of-islands.js) |
 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees-and-graphs/word-ladder.js) |
+
+
+## Graphs
+| Title | Solution |
+| ----- | -------- |
+| [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
