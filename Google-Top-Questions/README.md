@@ -36,6 +36,7 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Py](./algorithms/sliding-window/fruit-into-baskets.py) |
+| Medium | [Maximum Sum of Two Non Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Py](./algorithms/sliding-window/maximum-sum-of-two-non-overlapping-subarrays.py) |
 
 ## Sorting And Searching
 --------
