@@ -1,18 +1,23 @@
 # Top Questions for Google.
 
-## Arrays and Strings
-
+## Arrays
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](./algorithms/array-and-strings/plus-one.js) |
+| Easy | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](./algorithms/arrays/plus-one.js) |
+| Easy | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [JS](./algorithms/array-and-strings/x-of-a-kind-in-a-deck-of-cards.js) |
 | Medium | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Py](./algorithms/array-and-strings/container-with-most-water.py) |
 | Medium | [Jump Game](https://leetcode.com/problems/jump-game/) | [Py](./algorithms/array-and-strings/jump-game.py) |
-| Medium | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Py](./algorithms/array-and-strings/longest-substring-with-at-most-two-distinct-characters.py) |
-| Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Py](./algorithms/array-and-strings/longest-substring-without-repeating-characters.py) |
 | Medium | [Missing Ranges](https://leetcode.com/problems/next-permutation/) | [Py](./algorithms/array-and-strings/missing-ranges.py) |
 | Medium | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [Py](./algorithms/array-and-strings/next-closest-time.py) |
 | Medium | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [JS](./algorithms/array-and-strings/next-permutation.js) |
 | Hard | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Py](./algorithms/array-and-strings/read-n-characters-given-read4-ii-call-multiple-times.py) |
+
+## Strings
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Py](./algorithms/array-and-strings/longest-substring-with-at-most-two-distinct-characters.py) |
+| Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Py](./algorithms/array-and-strings/longest-substring-without-repeating-characters.py) |
 
 ## Dynamic Programming
 --------
