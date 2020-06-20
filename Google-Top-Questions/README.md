@@ -18,7 +18,7 @@
 --------
 
 | Difficulty | Title | Solution |
-| ----- | -------- |
+| ---------- | ----- | -------- |
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
 | Medium | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./algorithms/dynamic-programming/best-time-to-buy-and-sell-stock.js) |
 | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
@@ -29,7 +29,7 @@
 --------
 
 | Difficulty | Title | Solution |
-| ----- | -------- |
+| ---------- | ----- | -------- |
 | Medium | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Py](./algorithms/sliding-window/fruit-into-baskets.py) |
 
 ## Sorting And Searching
@@ -44,7 +44,7 @@
 --------
 
 | Difficulty | Title | Solution |
-| ----- | -------- |
+| ---------- | ----- | -------- |
 | Medium | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees-and-graphs/binary-tree-maximum-path-sum.js) |
 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees-and-graphs/course-schedule-ii.py) |
 | Medium | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees-and-graphs/diameter-of-binary-tree.py) |
@@ -54,5 +54,5 @@
 
 ## Graphs
 | Difficulty | Title | Solution |
-| ----- | -------- |
+| ---------- | ----- | -------- |
 | Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
