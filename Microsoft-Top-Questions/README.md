@@ -1,5 +1,4 @@
-# Top Questions for Microsoft
-Topicwise questions asked in Microsoft Interviews by leetcode.
+# Top Questions for Microsoft.
 
 ## Arrays and Strings
 

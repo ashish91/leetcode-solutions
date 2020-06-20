@@ -1,4 +1,4 @@
-# Top Questions for Amazon.
+# Top Questions for Google.
 
 ## Arrays and Strings
 
