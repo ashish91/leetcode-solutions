@@ -61,4 +61,6 @@
 ## Graphs
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
+| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/graphs/longest-string-chain.js) |
+| Medium | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [JS](./algorithms/graphs/open-the-lock.js) |
+| Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/graphs/word-ladder.js) |
