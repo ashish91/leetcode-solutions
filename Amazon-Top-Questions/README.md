@@ -4,7 +4,13 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [4sum](https://leetcode.com/problems/4sum/) | [JS](./algorithms/array/4sum.js) |
+
+## Two Pointers
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [4sum](https://leetcode.com/problems/4sum/) | [Py](./algorithms/two-pointers/4sum.py) |
+
 
 ## Linked List
 
