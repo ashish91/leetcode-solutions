@@ -30,6 +30,19 @@
 | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
 | Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
 
+## Graphs
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/graphs/longest-string-chain.js) |
+| Medium | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [JS](./algorithms/graphs/open-the-lock.js) |
+| Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/graphs/word-ladder.js) |
+
+## Greedy
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py](./algorithms/graphs/meeting-rooms-ii.py) |
+
+
 ## Sliding Window
 --------
 
@@ -51,16 +64,9 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees-and-graphs/diameter-of-binary-tree.py) |
-| Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees-and-graphs/course-schedule-ii.py) |
-| Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees-and-graphs/number-of-islands.js) |
-| Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees-and-graphs/word-ladder.js) |
-| Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees-and-graphs/binary-tree-maximum-path-sum.js) |
-
-
-## Graphs
-| Difficulty | Title | Solution |
-| ---------- | ----- | -------- |
-| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/graphs/longest-string-chain.js) |
-| Medium | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [JS](./algorithms/graphs/open-the-lock.js) |
-| Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/graphs/word-ladder.js) |
+| Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees/diameter-of-binary-tree.py) |
+| Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees/course-schedule-ii.py) |
+| Medium | [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Py](./algorithms/trees/delete-nodes-and-return-forest.py) |
+| Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees/number-of-islands.js) |
+| Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees/word-ladder.js) |
+| Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees/binary-tree-maximum-path-sum.js) |
