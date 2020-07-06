@@ -67,6 +67,7 @@
 | Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees/diameter-of-binary-tree.py) |
 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees/course-schedule-ii.py) |
 | Medium | [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Py](./algorithms/trees/delete-nodes-and-return-forest.py) |
+| Medium | [Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [JS](./algorithms/trees/flip-equivalent-binary-trees.js) |
 | Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees/number-of-islands.js) |
 | Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees/word-ladder.js) |
 | Hard | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JS](./algorithms/trees/binary-tree-maximum-path-sum.js) |
