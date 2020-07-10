@@ -4,6 +4,7 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Plus One](https://leetcode.com/problems/plus-one/) | [JS](./algorithms/arrays/plus-one.js) |
+| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./algorithms/arrays/two-sum.py) |
 | Easy | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [JS](./algorithms/array-and-strings/x-of-a-kind-in-a-deck-of-cards.js) |
 | Medium | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Py](./algorithms/array-and-strings/container-with-most-water.py) |
 | Medium | [Jump Game](https://leetcode.com/problems/jump-game/) | [Py](./algorithms/array-and-strings/jump-game.py) |

@@ -4,6 +4,7 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./algorithms/arrays/two-sum.py) |
 
 ## Two Pointers
 
