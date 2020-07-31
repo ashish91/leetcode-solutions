@@ -4,7 +4,7 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/two-sum.py) |
+| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/2sum.py) |
 
 ## Dynamic Programming
 
