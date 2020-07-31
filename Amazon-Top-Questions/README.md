@@ -4,7 +4,13 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/2sum.py) |
+| Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/two-sum.py) |
+
+## Depth First Search
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Easy | [Depth First Search](https://leetcode.com/problems/flood-fill/) | [Py](./depth-first-search/flood-fill.py) |
 
 ## Dynamic Programming
 
@@ -24,13 +30,15 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-
+| Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Py](./linked-list/merge-two-sorted-lists.py) |
 
 ## String
 --------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Py](./string/most-common-word/.py) |
+| Easy | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Py](./string/reorder-data-in-log-files.py) |
 
 
 ## Stack
