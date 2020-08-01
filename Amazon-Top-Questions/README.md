@@ -18,6 +18,11 @@
 | ---------- | ----- | -------- |
 | Easy | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./dynamic-programming/best-time-to-buy-and-sell-stock.js) |
 
+## Greedy
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Py](./greedy/partition-labels.py) |
 
 ## Two Pointers
 
