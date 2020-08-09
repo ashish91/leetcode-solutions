@@ -17,6 +17,7 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./dynamic-programming/best-time-to-buy-and-sell-stock.js) |
+| Medium | [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Py](./dynamic-programming/number-of-dice-rolls-with-target-sum.py) |
 
 ## Greedy
 

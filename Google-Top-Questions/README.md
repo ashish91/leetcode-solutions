@@ -11,6 +11,7 @@
 | Medium | [Missing Ranges](https://leetcode.com/problems/next-permutation/) | [Py](./algorithms/array-and-strings/missing-ranges.py) |
 | Medium | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [Py](./algorithms/array-and-strings/next-closest-time.py) |
 | Medium | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [JS](./algorithms/array-and-strings/next-permutation.js) |
+| Medium | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [JS](./arrays/subarray-sum-equals-k.js) |
 | Hard | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Py](./algorithms/array-and-strings/read-n-characters-given-read4-ii-call-multiple-times.py) |
 
 ## Strings
