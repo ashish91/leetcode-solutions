@@ -30,7 +30,7 @@
 | Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JS](./algorithms/dynamic-programming/maximum-subarray.js) |
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
 | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
-| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/trees/longest-string-chain.js) |
+| Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/dynamic-programming/longest-string-chain.js) |
 
 ## Graphs
 | Difficulty | Title | Solution |
@@ -69,6 +69,7 @@
 | Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees/diameter-of-binary-tree.py) |
 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees/course-schedule-ii.py) |
 | Medium | [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Py](./algorithms/trees/delete-nodes-and-return-forest.py) |
+| Medium | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [Py](./algorithms/trees/binary-tree-coloring-game.py) |
 | Medium | [Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [JS](./algorithms/trees/flip-equivalent-binary-trees.js) |
 | Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees/number-of-islands.js) |
 | Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees/word-ladder.js) |
