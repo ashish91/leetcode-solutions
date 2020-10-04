@@ -48,7 +48,6 @@
 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Py](./linked-list/merge-two-sorted-lists.py) |
 
 ## String
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
@@ -57,7 +56,6 @@
 
 
 ## Stack
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
