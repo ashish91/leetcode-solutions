@@ -5,12 +5,20 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/two-sum.py) |
+| Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JS](./arrays/merge-intervals.js) |
+
+## Breadth First Search
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
+| Medium | [All Nodes distance K Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Py](./breadth-first-search/all-nodes-distance-k-in-binary-tree.py) |
 
 ## Depth First Search
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Easy | [Depth First Search](https://leetcode.com/problems/flood-fill/) | [Py](./depth-first-search/flood-fill.py) |
+| Easy | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Py](./depth-first-search/flood-fill.py) |
+| Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./depth-first-search/number-of-islands.js) |
 
 ## Dynamic Programming
 
@@ -23,6 +31,7 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Medium | [Campus Bikes](https://leetcode.com/problems/campus-bikes/) | [Py](./greedy/campus-bikes.py) |
 | Medium | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Py](./greedy/partition-labels.py) |
 
 ## Two Pointers
