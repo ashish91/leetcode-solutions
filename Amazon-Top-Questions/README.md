@@ -7,11 +7,16 @@
 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/two-sum.py) |
 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JS](./arrays/merge-intervals.js) |
 
-## Breadth First Search
+## Binary Tree
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [All Nodes distance K Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Py](./breadth-first-search/all-nodes-distance-k-in-binary-tree.py) |
+
+## Breadth First Search
+
+| Difficulty | Title | Solution |
+| ---------- | ----- | -------- |
 
 ## Depth First Search
 
