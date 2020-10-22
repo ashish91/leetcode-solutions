@@ -11,7 +11,8 @@
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [All Nodes distance K Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Py](./breadth-first-search/all-nodes-distance-k-in-binary-tree.py) |
+| Medium | [All Nodes distance K Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Py](./binary-tree/all-nodes-distance-k-in-binary-tree.py) |
+| Medium | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [Py](./binary-tree/maximum-average-subtree.py) |
 
 ## Breadth First Search
 
