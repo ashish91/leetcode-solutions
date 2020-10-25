@@ -20,6 +20,7 @@
 | ---------- | ----- | -------- |
 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./breadth-first-search/course-schedule-ii.py) |
 | Medium | [Rotten Oranges](https://leetcode.com/problems/rotten-oranges/) | [Py](./breadth-first-search/rotten-oranges.py) |
+| Medium | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Py](./breadth-first-search/shortest-path-in-binary-matrix.py) |
 | Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Py](./breadth-first-search/word-ladder.js) |
 
 ## Depth First Search
