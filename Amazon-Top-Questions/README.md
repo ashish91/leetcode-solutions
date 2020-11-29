@@ -5,7 +5,9 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [Py](./arrays/two-sum.py) |
+| Medium | [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Py](./arrays/k-closest-points-to-origin.py) |
 | Medium | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JS](./arrays/merge-intervals.js) |
+| Medium | [Product of Array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Py](./arrays/product-of-array-except-self.py) |
 
 ## Binary Tree
 
