@@ -65,15 +65,11 @@
 | ---------- | ----- | -------- |
 | Easy | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Py](./string/most-common-word/.py) |
 | Easy | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Py](./string/reorder-data-in-log-files.py) |
-
+| Medium | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [JS](./string/group-anagrams.js) |
 
 ## Stack
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Medium | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Py](./stack/online-stock-span.py) |
 
-
-## Tree
-
-| Difficulty | Title | Solution |
-| ---------- | ----- | -------- |
