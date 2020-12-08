@@ -46,8 +46,8 @@
 ## Greedy
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py](./algorithms/graphs/meeting-rooms-ii.py) |
-
+| Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py](./algorithms/greedy/meeting-rooms-ii.py) |
+| Medium | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Py](./algorithms/greedy/minimum-domino-rotations-for-equal-row.py) |
 
 ## Sliding Window
 --------
