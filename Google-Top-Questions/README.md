@@ -46,8 +46,10 @@
 ## Greedy
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Medium | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Py](./algorithms/greedy/hand-of-straights.py) |
 | Medium | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Py](./algorithms/greedy/meeting-rooms-ii.py) |
 | Medium | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Py](./algorithms/greedy/minimum-domino-rotations-for-equal-row.py) |
+| Medium | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Py](./algorithms/greedy/reorganize-string.py) |
 
 ## Sliding Window
 --------
@@ -71,9 +73,10 @@
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Easy | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Py](./algorithms/trees/diameter-of-binary-tree.py) |
+| Medium | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [Py](./algorithms/trees/binary-tree-coloring-game.py) |
 | Medium | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Py](./algorithms/trees/course-schedule-ii.py) |
 | Medium | [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Py](./algorithms/trees/delete-nodes-and-return-forest.py) |
-| Medium | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [Py](./algorithms/trees/binary-tree-coloring-game.py) |
+| Medium | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Py](./algorithms/trees/find-duplicate-subtrees.py) |
 | Medium | [Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [JS](./algorithms/trees/flip-equivalent-binary-trees.js) |
 | Medium | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JS](./algorithms/trees/number-of-islands.js) |
 | Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/trees/word-ladder.js) |
