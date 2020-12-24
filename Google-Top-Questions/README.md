@@ -33,6 +33,7 @@
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
 | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
 | Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/dynamic-programming/longest-string-chain.js) |
+| Medium | [Maximum Point You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Py](./algorithms/dynamic-programming/maximum-points-you-can-obtain-from-cards.py) |
 | Medium | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Py](./algorithms/dynamic-programming/unique-paths.py) |
 | Medium | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Py](./algorithms/dynamic-programming/unique-paths-ii.py) |
 
