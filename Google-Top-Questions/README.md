@@ -31,6 +31,7 @@
 | Easy | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JS](./algorithms/dynamic-programming/best-time-to-buy-and-sell-stock.js) |
 | Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JS](./algorithms/dynamic-programming/maximum-subarray.js) |
 | Medium | [Coin Change](https://leetcode.com/problems/coin-change/) | [JS](./algorithms/dynamic-programming/coin-change.js) |
+| Medium | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Py](./algorithms/dynamic-programming/longest-arithmetic-subsequence.py) |
 | Medium | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JS](./algorithms/dynamic-programming/longest-palindromic-substring.js) |
 | Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/dynamic-programming/longest-string-chain.js) |
 | Medium | [Maximum Point You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Py](./algorithms/dynamic-programming/maximum-points-you-can-obtain-from-cards.py) |
