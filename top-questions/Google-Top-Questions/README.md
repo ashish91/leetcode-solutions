@@ -24,7 +24,6 @@
 | Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Py](./algorithms/strings/longest-substring-without-repeating-characters.py) |
 
 ## Dynamic Programming
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
@@ -39,6 +38,7 @@
 | Medium | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Py](./algorithms/dynamic-programming/unique-paths-ii.py) |
 
 ## Graphs
+
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [JS](./algorithms/graphs/longest-string-chain.js) |
@@ -46,6 +46,7 @@
 | Medium | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [JS](./algorithms/graphs/word-ladder.js) |
 
 ## Greedy
+
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
 | Medium | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Py](./algorithms/greedy/hand-of-straights.py) |
@@ -54,7 +55,6 @@
 | Medium | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Py](./algorithms/greedy/reorganize-string.py) |
 
 ## Sliding Window
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
@@ -62,7 +62,6 @@
 | Medium | [Maximum Sum of Two Non Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Py](./algorithms/sliding-window/maximum-sum-of-two-non-overlapping-subarrays.py) |
 
 ## Sorting And Searching
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
@@ -70,7 +69,6 @@
 
 
 ## Trees
---------
 
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
