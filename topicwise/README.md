@@ -21,7 +21,7 @@
 --------
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Find node in cloned tree](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Py3](./dynamic-programming/count-sorted-vowel-strings.py) |
+| Medium | [Count Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Py3](./dynamic-programming/count-sorted-vowel-strings.py) |
 
 [Graph](https://leetcode.com/tag/graph/)
 --------
