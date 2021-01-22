@@ -13,13 +13,15 @@
 --------
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
-| Medium | [Find node in cloned tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Py3](.g/depth-first-search/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
+| Medium | [Find node in cloned tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Py3](./depth-first-search/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
+| Medium | [Sum of Nodes with even Grand Parents](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Py3](./depth-first-search/sum-of-nodes-with-even-valued-grandparent.py) |
 
 
 [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 --------
 | Difficulty | Title | Solution |
 | ---------- | ----- | -------- |
+| Medium | [Find node in cloned tree](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Py3](./dynamic-programming/count-sorted-vowel-strings.py) |
 
 [Graph](https://leetcode.com/tag/graph/)
 --------
